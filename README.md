@@ -1,9 +1,9 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=RasheedRendon/Practica1MSF)
 
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Erik Rasheed Rendón Carrillo\[20210818]; erik.rendonc201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
