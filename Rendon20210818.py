@@ -121,4 +121,5 @@ plt.ylabel('Vi(t) [V]', fontsize = 11)
 plt.legend(bbox_to_anchor = (0.5,-0.2),loc = 'center', ncol = 3,
            fontsize = 9, frameon = True)
 plt.show()
+
 fg4.savefig('impulse_phyton.pdf', bbox_inches = 'tight')
